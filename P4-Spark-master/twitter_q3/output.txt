@@ -1,0 +1,2 @@
+Average tweet length of PrezOno : 104
+Average tweet length of others: 86

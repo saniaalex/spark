@@ -1,0 +1,2 @@
+Location Centroid  [38.990277950025686, -85.452802750937991]
+The proportion of tweets with location to those without 1868302 : 4212000
